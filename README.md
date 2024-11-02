@@ -1,5 +1,14 @@
 # Predict Blood Glucose Level Based on PPG Signals
 
+![Titanic](https://img.shields.io/badge/dataset-Titanic-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-green)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
+![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-lightblue)
+![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
+
+
 ### Project Overview
 
 This project aims to predict blood glucose levels using Photoplethysmogram (PPG) signals. By analyzing the PPG waveform, along with other physiological data, the model predicts glucose levels, providing a non-invasive solution for diabetes management. The project leverages machine learning models, including linear regression, decision trees, and neural networks, to deliver accurate predictions.
