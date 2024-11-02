@@ -99,7 +99,7 @@ These metrics helped assess the accuracy and reliability of each model.
 
 The predictive models developed in this project provide a promising solution for non-invasive glucose monitoring. The results show that machine learning models can effectively predict blood glucose levels from PPG signals. Future work includes improving model accuracy through deep learning techniques and deploying the solution in wearable devices for real-time monitoring.
 
-How to Run
+### How to Run
 
 To run the project:
 
@@ -119,7 +119,7 @@ Open the Jupyter Notebook to train and evaluate the model.
 
 jupyter notebook Predict_Blood_Glucose_Level.ipynb
 
-Dependencies
+### Dependencies
 
 Python 3.8+
 
@@ -135,7 +135,7 @@ TensorFlow
 
 Matplotlib
 
-License
+### License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
