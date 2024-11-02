@@ -93,10 +93,12 @@ Mean Absolute Error (MAE): Measures the average magnitude of errors in predictio
 ![image](https://github.com/user-attachments/assets/34dc39cb-b11c-4ff5-a18c-691740b4a7e3)
 
 Mean Squared Error (MSE): Indicates the average squared difference between predicted and actual values.
-![image](https://github.com/user-attachments/assets/9237d372-8345-492e-996f-41c882e806dd)
+![image](https://github.com/user-attachments/assets/209c7d39-b4c3-4dad-a01b-11d36e49f884)
+
 
 R-squared (R²): Evaluates the goodness of fit of the model.
-![image](https://github.com/user-attachments/assets/814bdfac-afda-4320-8fbc-ac7c09664826)
+![image](https://github.com/user-attachments/assets/42b8520f-1bc1-471b-b39c-fc8ccb7a7ba2)
+
 
 
 ### Conclusion
