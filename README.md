@@ -105,11 +105,11 @@ The predictive models developed in this project provide a promising solution for
 
 ### Contact
 
-For any inquiries, questions, or collaboration opportunities, please reach out to:
+- Author: Muhammad Yasir Saleem
+  
+- Email: myasirsaleem94@gmail.com
+  
+- LinkedIn:https://www.linkedin.com/in/muhammad-yasir-saleem/
 
-Name: Arsalan Ashraf
-
-Email: [your-email@example.com]
-
-GitHub: https://github.com/username
+Feel free to reach out if you have any questions or need further information.
 
