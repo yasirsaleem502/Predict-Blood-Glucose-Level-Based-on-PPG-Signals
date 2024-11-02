@@ -6,13 +6,10 @@ This project aims to predict blood glucose levels using Photoplethysmogram (PPG)
 
 ### Table of Contents
 
-Introduction
-
-Dataset Description
-
-Data Preprocessing
-
-Exploratory Data Analysis
+- [Introduction](#introduction)
+- [Dataset Description](#dataset-description)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 Model Building
 
