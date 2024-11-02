@@ -87,15 +87,17 @@ The models were trained using the preprocessed dataset, and hyperparameter tunin
 
 ### Model Evaluation
 
-The model's performance was evaluated using various metrics:
+I am using a Polynomial Regression model and showing its performance metrics.
 
 Mean Absolute Error (MAE): Measures the average magnitude of errors in predictions.
+![image](https://github.com/user-attachments/assets/34dc39cb-b11c-4ff5-a18c-691740b4a7e3)
 
 Mean Squared Error (MSE): Indicates the average squared difference between predicted and actual values.
+![image](https://github.com/user-attachments/assets/9237d372-8345-492e-996f-41c882e806dd)
 
 R-squared (R²): Evaluates the goodness of fit of the model.
+![image](https://github.com/user-attachments/assets/814bdfac-afda-4320-8fbc-ac7c09664826)
 
-These metrics helped assess the accuracy and reliability of each model.
 
 ### Conclusion
 
