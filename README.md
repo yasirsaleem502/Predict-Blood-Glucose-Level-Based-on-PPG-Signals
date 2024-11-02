@@ -55,6 +55,8 @@ Age Range: A categorical representation of the individual's age group.
 
 The dataset includes demographic information and physiological features that are used to predict the blood glucose level.
 
+dataset link : https://www.kaggle.com/datasets/muhammadyasirsaleem/ppg-signal-with-blood-sugar-level-data
+
 ### Data Preprocessing
 
 Data preprocessing steps included:
@@ -79,7 +81,7 @@ Linear Regression: To establish a baseline model for predicting glucose levels.
 
 Decision Trees: To capture non-linear relationships between features.
 
-Neural Networks: For improved accuracy and handling complex patterns in the data.
+Polynomial regression: is a type of regression analysis that models the relationship between the independent variable and the dependent variable as an nth-degree polynomial.
 
 The models were trained using the preprocessed dataset, and hyperparameter tuning was performed to achieve the best possible accuracy.
 
@@ -135,17 +137,8 @@ TensorFlow
 
 Matplotlib
 
-### License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments
-
-Thanks to the open-source community for providing valuable tools and resources.
-
-Special acknowledgment to researchers and contributors working on non-invasive health monitoring technologies.
-
-Contact
+### Contact
 
 For any inquiries, questions, or collaboration opportunities, please reach out to:
 
