@@ -10,18 +10,12 @@ This project aims to predict blood glucose levels using Photoplethysmogram (PPG)
 - [Dataset Description](#dataset-description)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Model Building](#model-building)
+- [Model Building](#model-building)
+- [Model Evaluation](#model-evaluation)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
 
-Model Building
-
-Model Evaluation
-
-Conclusion
-
-How to Run
-
-Dependencies
-
-License
 
 
 ### Introduction
@@ -78,7 +72,7 @@ Linear Regression: To establish a baseline model for predicting glucose levels.
 
 Decision Trees: To capture non-linear relationships between features.
 
-Polynomial regression: is a type of regression analysis that models the relationship between the independent variable and the dependent variable as an nth-degree polynomial.
+Polynomial regression:is a type of regression analysis that models the relationship between the independent variable and the dependent variable as an nth-degree polynomial.
 
 The models were trained using the preprocessed dataset, and hyperparameter tuning was performed to achieve the best possible accuracy.
 
@@ -98,41 +92,6 @@ These metrics helped assess the accuracy and reliability of each model.
 
 The predictive models developed in this project provide a promising solution for non-invasive glucose monitoring. The results show that machine learning models can effectively predict blood glucose levels from PPG signals. Future work includes improving model accuracy through deep learning techniques and deploying the solution in wearable devices for real-time monitoring.
 
-### How to Run
-
-To run the project:
-
-Clone this repository.
-
-git clone https://github.com/username/predict-glucose-ppg.git
-
-Navigate to the project directory.
-
-cd predict-glucose-ppg
-
-Install the required dependencies.
-
-pip install -r requirements.txt
-
-Open the Jupyter Notebook to train and evaluate the model.
-
-jupyter notebook Predict_Blood_Glucose_Level.ipynb
-
-### Dependencies
-
-Python 3.8+
-
-Jupyter Notebook
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-TensorFlow
-
-Matplotlib
 
 
 ### Contact
